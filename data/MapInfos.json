@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Floresta","order":1,"parentId":0,"scrollX":451,"scrollY":371.5},
-{"id":2,"expanded":true,"name":"Templo Visível","order":2,"parentId":0,"scrollX":491,"scrollY":281.5},
+{"id":2,"expanded":true,"name":"Templo Visível","order":3,"parentId":0,"scrollX":491,"scrollY":281.5},
 {"id":3,"expanded":true,"name":"Mina Dragão","order":5,"parentId":0,"scrollX":781.1999999999999,"scrollY":436.2},
-{"id":4,"expanded":true,"name":"Templo Invisível","order":3,"parentId":0,"scrollX":491,"scrollY":281.5},
+{"id":4,"expanded":true,"name":"Templo Invisível","order":2,"parentId":0,"scrollX":491,"scrollY":281.5},
 {"id":5,"expanded":false,"name":"Mina","order":4,"parentId":0,"scrollX":491,"scrollY":342.5},
 {"id":6,"expanded":true,"name":"Assembleia da Cidade","order":6,"parentId":0,"scrollX":781.1999999999999,"scrollY":436.2}
 ]
