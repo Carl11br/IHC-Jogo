@@ -5,7 +5,9 @@ null,
 {"id":3,"expanded":true,"name":"Mina Dragão","order":5,"parentId":0,"scrollX":781.1999999999999,"scrollY":436.2},
 {"id":4,"expanded":true,"name":"Templo Invisível","order":2,"parentId":0,"scrollX":491,"scrollY":281.5},
 {"id":5,"expanded":false,"name":"Mina","order":4,"parentId":0,"scrollX":491,"scrollY":342.5},
-{"id":6,"expanded":true,"name":"Assembleia da Cidade","order":6,"parentId":0,"scrollX":589.1999999999999,"scrollY":328.2},
-{"id":7,"expanded":false,"name":"Mountain Village","order":7,"parentId":6,"scrollX":589.1999999999999,"scrollY":775.8},
-{"id":8,"expanded":false,"name":"Fishing Village","order":8,"parentId":6,"scrollX":589.1999999999999,"scrollY":966.5999999999999}
+{"id":6,"expanded":false,"name":"Assembleia da Cidade","order":6,"parentId":0,"scrollX":589.1999999999999,"scrollY":337.2},
+{"id":7,"expanded":false,"name":"Mountain Village","order":7,"parentId":6,"scrollX":601.1999999999999,"scrollY":787.1999999999999},
+{"id":8,"expanded":true,"name":"Fishing Village","order":8,"parentId":6,"scrollX":589.1999999999999,"scrollY":734.4},
+null,
+{"id":10,"expanded":true,"name":"Polo Norte","order":9,"parentId":0,"scrollX":539,"scrollY":318.5}
 ]
